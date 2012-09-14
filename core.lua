@@ -557,6 +557,7 @@ local CLASS_FILTERS = {
                 CreateSpellEntry( 703 ), -- Garrote
                 CreateSpellEntry( 79140 ), -- vendetta
                 CreateSpellEntry( 16511 ), -- Hemorrhage
+								CreateSpellEntry( 84617 ), -- Revealing Strike
 				CreateSpellEntry( 84745 ), -- Shallow Insight
 				CreateSpellEntry( 84746 ), -- Moderate Insight
 				CreateSpellEntry( 84747 ), -- Deep Insight
