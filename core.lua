@@ -468,6 +468,7 @@ local CLASS_FILTERS = {
                 CreateSpellEntry( 26017 ), -- Vindication --
                 CreateSpellEntry( 68055 ), -- Judgements of the Just --
 				CreateSpellEntry( 86273 ), -- Illuminated Healing
+				CreateSpellEntry( 20925 ), -- Sacred Shield
             },
             player = {
                 CreateSpellEntry( 642 ), -- Divine Shield
